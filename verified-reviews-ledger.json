@@ -3,16 +3,18 @@
   "governance": {
     "authority": "Master Manikant Yadav (मास्टर मणिकान्त यादव)",
     "transparency_policy": "Rule 14 / Rule 14.1 (100% Truth & Authenticity)",
+    "founder_manifesto": "A real 2-star or 3-star review from an authentic buyer is infinitely more valuable than a million fake 5-star reviews.",
     "reward_policy": "Unconditional 5% discount coupon issued to all verified reviews (1-Star to 5-Star identically). Zero fake badges. Zero rating coercion.",
     "anti_fraud_gate": "Zero IP-blocking. 100% Purchase-Verification via Cloudflare D1 + Dodo Payments. Duplicate reviews for same SKU per buyer are rejected.",
     "privacy_compliance": "Strict DPDP Act 2023 & GDPR Data Minimization. Buyer emails masked with zero PII exposure."
   },
-  "last_updated": "2026-09-10T05:20:36.020Z",
+  "last_updated": "2026-09-10T07:06:42.793Z",
   "canonical_links": {
     "marketplace": "https://store.frankbase.com",
     "security_suite": "https://frankpass.com",
     "founder": "https://mastermanikant.com",
-    "official_desk": "connect@mastermanikant.com"
+    "official_desk": "connect@mastermanikant.com",
+    "public_github_ledger": "https://github.com/Mastermanikant/frankbase-transparency-ledger"
   },
   "total_verified_reviews": 1,
   "verified_reviews": [
