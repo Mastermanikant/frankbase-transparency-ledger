@@ -1,0 +1,70 @@
+﻿name: 🔄 Daily Verified Reviews Ledger Sync
+
+on:
+  schedule:
+    # Runs every day at 00:00 UTC (05:30 AM IST)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual one-click trigger from GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  sync-ledger:
+    name: Sync Reviews from Cloudflare Edge D1
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: ⚙️ Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 🌐 Fetch Verified Reviews from Edge API
+        run: |
+          node -e "
+          const fs = require('fs');
+          const https = require('https');
+
+          const url = 'https://store.frankbase.com/api/reviews-ledger';
+          console.log('Fetching live reviews from: ' + url);
+
+          https.get(url, (res) => {
+            let data = '';
+            res.on('data', chunk => { data += chunk; });
+            res.on('end', () => {
+              try {
+                const parsed = JSON.parse(data);
+                if (parsed && parsed.ledger_standard) {
+                  fs.writeFileSync('verified-reviews-ledger.json', JSON.stringify(parsed, null, 2) + '\n', 'utf8');
+                  console.log('Successfully written verified-reviews-ledger.json with ' + (parsed.total_verified_reviews || 0) + ' reviews.');
+                } else {
+                  console.error('Invalid response format:', data);
+                  process.exit(1);
+                }
+              } catch (err) {
+                console.error('JSON parsing failed:', err);
+                process.exit(1);
+              }
+            });
+          }).on('error', (err) => {
+            console.error('HTTP request failed:', err);
+            process.exit(1);
+          });
+          "
+
+      - name: 🚀 Commit & Push Changes
+        run: |
+          git config user.name "FrankBase Transparency Bot"
+          git config user.email "connect@mastermanikant.com"
+          git add verified-reviews-ledger.json
+          if git diff --staged --quiet; then
+            echo "No changes in verified reviews ledger. Everything up to date."
+          else
+            git commit -m "chore(cron): automated daily verified reviews sync from Cloudflare D1"
+            git push
+            echo "Changes pushed successfully!"
+          fi
