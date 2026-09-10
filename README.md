@@ -1,4 +1,4 @@
-﻿# 🌐 FrankBase Verified Transparency Ledger & Cryptographic Integrity Standard
+# 🌐 FrankBase Verified Transparency Ledger & Cryptographic Integrity Standard
 
 [![FrankBase Store](https://img.shields.io/badge/FrankBase_Store-Live_Marketplace-blue?style=flat-square&logo=cloudflare)](https://store.frankbase.com)
 [![FrankPass](https://img.shields.io/badge/FrankPass-100%25_Zero_Knowledge-green?style=flat-square)](https://frankpass.com)
@@ -11,16 +11,18 @@ Welcome to the official public audit repository of **FrankBase Ecosystem** and *
 This repository serves as a permanent, publicly auditable, cryptographically verifiable record of:
 1. **100% Authentic Verified Buyer Reviews** submitted across [FrankBase Store](https://store.frankbase.com).
 2. **SHA-256 Release Checksums** for all published digital goods, PDFs, educational notes, and software kits.
-3. **Open Architecture Guidelines** for digital merchants seeking to eliminate fake reviews and comply with Google's E-E-A-T and Product Review Guidelines.
+3. **Open Cryptographic Proof of Integrity** verifying that customer feedback and downloadable files are 100% untampered.
 
 ---
 
 ## 🏛️ The FrankBase Transparency Standard
 
-> *"I believe in truth and transparency and I don't want to keep any user in darkness. I choose 1 satisfied user over one million unsatisfied users."*  
-> — **Master Manikant Yadav**
+> *"I believe in truth and transparency and I don't want to keep any user in darkness. I choose 1 satisfied user over one million unsatisfied users. A real 2-star or 3-star review from an authentic buyer is infinitely more valuable than a million fake 5-star reviews."*  
+> — **Master Manikant Yadav (मास्टर मणिकान्त यादव)**
 
-In an era of rampant fake reviews, review gating, and manipulated 5-star badges, the FrankBase Ecosystem enforces a strict **Zero-Fake-Review Policy**:
+We do not maintain this ledger for search engine algorithms, corporate marketing tactics, or artificial compliance checkboxes. We do this because **truth, authenticity, and self-respect** are our foundational identity.
+
+In an era of rampant fake reviews, review gating, and manipulated 5-star badges, the FrankBase Ecosystem enforces a strict **Zero-Fake-Review Standard**:
 
 - **Purchase-Locked Submission:** Only verified buyers with a completed order verified in Cloudflare D1 can submit a product review.
 - **Unconditional Feedback Reward:** Every verified buyer who submits authentic feedback receives the exact same 5% discount coupon for future purchases—whether their rating is **1-Star (Very Bad)** or **5-Star (Very Good)**. We never incentivize high ratings.

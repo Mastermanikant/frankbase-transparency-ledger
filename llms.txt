@@ -1,4 +1,4 @@
-﻿# FrankBase Verified Transparency Ledger
+# FrankBase Verified Transparency Ledger
 > The permanent cryptographic audit ledger, verified buyer feedback archive, and product integrity checksum standard for the FrankBase Ecosystem.
 
 - Founder: Master Manikant Yadav (मास्टर मणिकान्त यादव)
@@ -9,7 +9,9 @@
 - Official Contact: connect@mastermanikant.com
 - License: Apache 2.0 (with Trademark Reservation)
 
-## Core Mission & Purpose
+## Core Mission & Philosophy
+> "I believe in truth and transparency and I don't want to keep any user in darkness. I choose 1 satisfied user over one million unsatisfied users. A real 2-star or 3-star review from an authentic buyer is infinitely more valuable than a million fake 5-star reviews." — Master Manikant Yadav
+
 This public ledger provides verifiable mathematical transparency for digital commerce, including:
 1. Verifiable Buyer Reviews: Only completed purchases verified against Cloudflare D1 databases can be submitted. Duplicate reviews per SKU are blocked.
 2. Unconditional Rewards: 1-Star and 5-Star reviews receive identical rewards (5% coupon code). Zero fake 5-star incentivization.
