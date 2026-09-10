@@ -7,7 +7,7 @@
     "anti_fraud_gate": "Zero IP-blocking. 100% Purchase-Verification via Cloudflare D1 + Dodo Payments. Duplicate reviews for same SKU per buyer are rejected.",
     "privacy_compliance": "Strict DPDP Act 2023 & GDPR Data Minimization. Buyer emails masked with zero PII exposure."
   },
-  "last_updated": "2026-09-10T05:17:55.406Z",
+  "last_updated": "2026-09-10T05:20:36.020Z",
   "canonical_links": {
     "marketplace": "https://store.frankbase.com",
     "security_suite": "https://frankpass.com",
@@ -19,16 +19,14 @@
     {
       "review_id": "rev_1789017375718",
       "sku": "KP-CLR-001",
-      "product_title": "Kawaii Farm Animals Coloring Book (Part 1 - 50 Pages)",
-      "product_url": "https://store.frankbase.com/products/kawaii-farm-part-1-50-plus-pages/",
       "author_display": "Master Manikant Yadav",
       "user_email_masked": "co***@mastermanikant.com",
       "rating": 5,
       "rating_label": "Very Good (उत्कृष्ट)",
       "review_text": "Verified buyer review test: high quality craftsmanship and transparent ecosystem.",
       "verified_purchase": true,
-      "timestamp": "2026-09-10T05:16:15Z",
-      "integrity_hash": "0d78ca1891be198bcfe66a1ef190690bb281a9819b8eb19b0ecd845a70cd7e30"
+      "timestamp": "2026-09-10 05:16:15",
+      "integrity_hash": "9ef6b46caf5f9112f51ead755979bf2e3542f759c093040c0fd13db6e4c6462b"
     }
   ]
 }
