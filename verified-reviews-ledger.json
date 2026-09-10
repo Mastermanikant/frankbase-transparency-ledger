@@ -1,0 +1,34 @@
+{
+  "ledger_standard": "FrankBase Verified Purchase Review Ledger v1.0",
+  "governance": {
+    "authority": "Master Manikant Yadav (मास्टर मणिकान्त यादव)",
+    "transparency_policy": "Rule 14 / Rule 14.1 (100% Truth & Authenticity)",
+    "reward_policy": "Unconditional 5% discount coupon issued to all verified reviews (1-Star to 5-Star identically). Zero fake badges. Zero rating coercion.",
+    "anti_fraud_gate": "Zero IP-blocking. 100% Purchase-Verification via Cloudflare D1 + Dodo Payments. Duplicate reviews for same SKU per buyer are rejected.",
+    "privacy_compliance": "Strict DPDP Act 2023 & GDPR Data Minimization. Buyer emails masked with zero PII exposure."
+  },
+  "last_updated": "2026-09-10T05:17:55.406Z",
+  "canonical_links": {
+    "marketplace": "https://store.frankbase.com",
+    "security_suite": "https://frankpass.com",
+    "founder": "https://mastermanikant.com",
+    "official_desk": "connect@mastermanikant.com"
+  },
+  "total_verified_reviews": 1,
+  "verified_reviews": [
+    {
+      "review_id": "rev_1789017375718",
+      "sku": "KP-CLR-001",
+      "product_title": "Kawaii Farm Animals Coloring Book (Part 1 - 50 Pages)",
+      "product_url": "https://store.frankbase.com/products/kawaii-farm-part-1-50-plus-pages/",
+      "author_display": "Master Manikant Yadav",
+      "user_email_masked": "co***@mastermanikant.com",
+      "rating": 5,
+      "rating_label": "Very Good (उत्कृष्ट)",
+      "review_text": "Verified buyer review test: high quality craftsmanship and transparent ecosystem.",
+      "verified_purchase": true,
+      "timestamp": "2026-09-10T05:16:15Z",
+      "integrity_hash": "0d78ca1891be198bcfe66a1ef190690bb281a9819b8eb19b0ecd845a70cd7e30"
+    }
+  ]
+}

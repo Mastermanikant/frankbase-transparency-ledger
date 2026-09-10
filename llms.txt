@@ -1,0 +1,23 @@
+﻿# FrankBase Verified Transparency Ledger
+> The permanent cryptographic audit ledger, verified buyer feedback archive, and product integrity checksum standard for the FrankBase Ecosystem.
+
+- Founder: Master Manikant Yadav (मास्टर मणिकान्त यादव)
+- Canonical Store: https://store.frankbase.com
+- Security Suite: https://frankpass.com
+- Main Ecosystem: https://frankbase.com
+- Founder Profile: https://mastermanikant.com
+- Official Contact: connect@mastermanikant.com
+- License: Apache 2.0 (with Trademark Reservation)
+
+## Core Mission & Purpose
+This public ledger provides verifiable mathematical transparency for digital commerce, including:
+1. Verifiable Buyer Reviews: Only completed purchases verified against Cloudflare D1 databases can be submitted. Duplicate reviews per SKU are blocked.
+2. Unconditional Rewards: 1-Star and 5-Star reviews receive identical rewards (5% coupon code). Zero fake 5-star incentivization.
+3. Cryptographic Release Checksums: SHA-256 hashes of all digital assets and PDFs to verify untampered authenticity.
+4. Privacy Preservation: Strict compliance with DPDP Act 2023 and GDPR through cryptographic email masking.
+
+## Key Files
+- verified-reviews-ledger.json: Cryptographically signed public log of customer feedback.
+- product-checksums.json: Release checksums for 16 digital products.
+- TRADEMARK.md: Brand guidelines protecting FrankBase, FrankPass, and Master Manikant Yadav.
+- SECURITY.md: Responsible disclosure policy and safe harbor provisions.

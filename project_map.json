@@ -1,0 +1,33 @@
+﻿{
+  "$schema_version": "2.2.0",
+  "project_identity": {
+    "project_id": "PRJ-PUB-TRANSPARENCY-LEDGER",
+    "project_name": "frankbase-transparency-ledger",
+    "domain": "github.com/Mastermanikant/frankbase-transparency-ledger",
+    "canonical_url": "https://github.com/Mastermanikant/frankbase-transparency-ledger",
+    "canonical_path": "D:\\01_Websites_and_Content\\MMY_Website_Project\\frankbase-transparency-ledger",
+    "github_repository": "https://github.com/Mastermanikant/frankbase-transparency-ledger.git",
+    "tier_level": 3,
+    "status": "PUBLIC_VERIFIED_AUDIT_LEDGER",
+    "visibility": "PUBLIC",
+    "purpose": "Public cryptographic audit ledger for verified buyer reviews and SHA-256 release checksums across FrankBase Store and FrankPass.",
+    "founder": "Master Manikant Yadav (मास्टर मणिकान्त यादव)",
+    "support_email": "support@frankbase.com",
+    "legal_email": "legal@frankbase.com",
+    "executive_desk": "connect@mastermanikant.com",
+    "license": "Apache-2.0 with Trademark Reservation"
+  },
+  "governance_and_policies": {
+    "rule_14_truth_standard": "100% Truth & Authenticity. Identical unconditional rewards for 1-star and 5-star reviews.",
+    "rule_43_surface_separation": "Store is private marketplace backend; Ledger is public sanitized audit record.",
+    "privacy_standard": "DPDP Act 2023 & GDPR data minimization. Zero unmasked customer PII. Zero private Gmail.",
+    "trademark_policy": "Explicit brand reservation protecting FrankBase, FrankPass, and Master Manikant Yadav."
+  },
+  "ledger_files": {
+    "verified_reviews": "verified-reviews-ledger.json",
+    "product_checksums": "product-checksums.json",
+    "trademark_guidelines": "TRADEMARK.md",
+    "security_policy": "SECURITY.md",
+    "ai_discovery": "llms.txt"
+  }
+}

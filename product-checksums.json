@@ -1,0 +1,153 @@
+{
+  "standard_version": "1.0.0",
+  "authority": "FrankBase Transparency Standard (Master Manikant Yadav)",
+  "last_audited": "2026-09-10T05:17:48.423Z",
+  "canonical_store_url": "https://store.frankbase.com",
+  "total_products_audited": 16,
+  "items": [
+    {
+      "sku": "FP-PRO-001",
+      "title": "FrankPass Pro - Universal Zero-Knowledge Password & Security Suite",
+      "slug": "frankpass-pro",
+      "canonical_url": "https://store.frankbase.com/products/frankpass-pro/",
+      "format": "Cryptographic Device Token (Offline Signed)",
+      "release_checksum_sha256": "91a79e7ef13db429e89357eb79ee8035c038c8577cc1eb2dc01e155f0c1e2d4e",
+      "integrity_status": "VERIFIED_OFFICIAL_RELEASE"
+    },
+    {
+      "sku": "KP-CLR-001",
+      "title": "Kawaii Farm Animals Coloring Book (Part 1 - 50 Pages)",
+      "slug": "kawaii-farm-part-1-50-plus-pages",
+      "canonical_url": "https://store.frankbase.com/products/kawaii-farm-part-1-50-plus-pages/",
+      "format": "Print-Ready PDF (A4 + US Letter)",
+      "release_checksum_sha256": "27a84b9907eeb744b45f38e9e8ee10a682c4cedbce4a2ab41542e7d22e33f22b",
+      "integrity_status": "VERIFIED_OFFICIAL_RELEASE"
+    },
+    {
+      "sku": "KP-CLR-002",
+      "title": "Kawaii Farm Animals Coloring Book (Part 2 - 50 Pages)",
+      "slug": "kawaii-farm-part-2-50-plus-pages",
+      "canonical_url": "https://store.frankbase.com/products/kawaii-farm-part-2-50-plus-pages/",
+      "format": "Print-Ready PDF (A4 + US Letter)",
+      "release_checksum_sha256": "ec4ec902a4b3985ccf6ece58b49adc26c93b0b98948b2782872f93429308afae",
+      "integrity_status": "VERIFIED_OFFICIAL_RELEASE"
+    },
+    {
+      "sku": "KP-CLR-003",
+      "title": "JUMBO Kawaii Farm 100 Bold & Easy Coloring Pages (The Ultimate Farm Collection)",
+      "slug": "jumbo-kawaii-farm-100-pages",
+      "canonical_url": "https://store.frankbase.com/products/jumbo-kawaii-farm-100-pages/",
+      "format": "Print-Ready PDF (A4 + US Letter)",
+      "release_checksum_sha256": "ef2adbd6c006b13638fde759f9100ba9fde2cfc51f2f7644365b8bb436ba5ce7",
+      "integrity_status": "VERIFIED_OFFICIAL_RELEASE"
+    },
+    {
+      "sku": "KP-PAR-001",
+      "title": "Raising Emotionally Strong Kids (Master Edition)",
+      "slug": "raising-emotionally-strong-kids-master-edition",
+      "canonical_url": "https://store.frankbase.com/products/raising-emotionally-strong-kids-master-edition/",
+      "format": "Direct PDF + Web Reader Access",
+      "release_checksum_sha256": "e53d00e929d98147b21ba9c5d593bf689b4dc052094bfcd502adcf775cae4700",
+      "integrity_status": "VERIFIED_OFFICIAL_RELEASE"
+    },
+    {
+      "sku": "KP-PAR-002",
+      "title": "सकारात्मक पालन-पोषण - भावनात्मक रूप से सशक्त बच्चे",
+      "slug": "sakaratmak-palan-poshan-hindi-edition",
+      "canonical_url": "https://store.frankbase.com/products/sakaratmak-palan-poshan-hindi-edition/",
+      "format": "डायरेक्ट PDF + वेब रीडर एक्सेस",
+      "release_checksum_sha256": "cd12cade7ca009bcb81a8c19a5a34a417d0c0e9e249e0646b072feccf5000d51",
+      "integrity_status": "VERIFIED_OFFICIAL_RELEASE"
+    },
+    {
+      "sku": "DEV-SSG-001",
+      "title": "Eleventy (11ty) Turbo Portal & Store Starter Kit",
+      "slug": "eleventy-turbo-portal-store-starter-kit",
+      "canonical_url": "https://store.frankbase.com/products/eleventy-turbo-portal-store-starter-kit/",
+      "format": "GitHub Clean Repo / ZIP Archive",
+      "release_checksum_sha256": "eed9aea2f16dbd14200a2ac194451b406835571ac428531fb3d32a2a1eb32c95",
+      "integrity_status": "VERIFIED_OFFICIAL_RELEASE"
+    },
+    {
+      "sku": "DEV-CFW-001",
+      "title": "Cloudflare Workers + D1 Microservice SaaS Boilerplate",
+      "slug": "cloudflare-workers-d1-microservice-saas-boilerplate",
+      "canonical_url": "https://store.frankbase.com/products/cloudflare-workers-d1-microservice-saas-boilerplate/",
+      "format": "GitHub Clean Repo / ZIP Archive",
+      "release_checksum_sha256": "021cff5af3c6bcfa5eab0de0fef8c47d814906e70ccefdf04493a0f559edb472",
+      "integrity_status": "VERIFIED_OFFICIAL_RELEASE"
+    },
+    {
+      "sku": "ENG-GRM-001",
+      "title": "English Grammar Zero-to-Hero Master Rulebook",
+      "slug": "english-grammar-zero-to-hero-master-rulebook",
+      "canonical_url": "https://store.frankbase.com/products/english-grammar-zero-to-hero-master-rulebook/",
+      "format": "Interactive PDF + Flashcards",
+      "release_checksum_sha256": "0433389c7decf40a098be33e987ece18d6ff03c3324aded238290ea71e9a20c3",
+      "integrity_status": "VERIFIED_OFFICIAL_RELEASE"
+    },
+    {
+      "sku": "EXM-BPSC-001",
+      "title": "BPSC TRE Secondary (Class 9-10 TGT) Mathematics 120-Question Solved Study Notes",
+      "slug": "bpsc-tre-tgt-math-class-9-10-complete-study-notes",
+      "canonical_url": "https://store.frankbase.com/products/bpsc-tre-tgt-math-class-9-10-complete-study-notes/",
+      "format": "Print-Ready 300 DPI Vector PDF",
+      "release_checksum_sha256": "8ff417956b79092aa386b0e61d1d2c13f98e78a888af706498ce57f5504b191a",
+      "integrity_status": "VERIFIED_OFFICIAL_RELEASE"
+    },
+    {
+      "sku": "EXM-BPSC-TRE-GS",
+      "title": "BPSC TRE 4.0 General Studies (GS) 5000+ Solved PYQs Master Megabank",
+      "slug": "bpsc-tre-4-general-studies-5000-solved-pyqs",
+      "canonical_url": "https://store.frankbase.com/products/bpsc-tre-4-general-studies-5000-solved-pyqs/",
+      "format": "Print-Ready 300 DPI Vector PDF",
+      "release_checksum_sha256": "682cccfa0e122e18a6c5981e3b47af3af7288d62da03fb84f01bdda979fc0b81",
+      "integrity_status": "VERIFIED_OFFICIAL_RELEASE"
+    },
+    {
+      "sku": "EXM-BPSC-TRE-PRT",
+      "title": "BPSC TRE Primary Teacher (Class 1–5 PRT) Complete Solved Practice Bank & CDP",
+      "slug": "bpsc-tre-primary-class-1-5-prt-solved-practice-bank",
+      "canonical_url": "https://store.frankbase.com/products/bpsc-tre-primary-class-1-5-prt-solved-practice-bank/",
+      "format": "Print-Ready 300 DPI Vector PDF",
+      "release_checksum_sha256": "1ac467981716c8a951708ffe7577ec35e727e7021dd3971e83dcb2d4105d2f47",
+      "integrity_status": "VERIFIED_OFFICIAL_RELEASE"
+    },
+    {
+      "sku": "EXM-BPSC-TRE-MID",
+      "title": "BPSC TRE Middle School (Class 6–8) Math & Science Solved 5-Year Megabank",
+      "slug": "bpsc-tre-middle-school-class-6-8-math-science-megabank",
+      "canonical_url": "https://store.frankbase.com/products/bpsc-tre-middle-school-class-6-8-math-science-megabank/",
+      "format": "Print-Ready 300 DPI Vector PDF",
+      "release_checksum_sha256": "eaf495cc286f56edfb9bbf9664a36e84d03455d5a06ca156a21c2762d24af029",
+      "integrity_status": "VERIFIED_OFFICIAL_RELEASE"
+    },
+    {
+      "sku": "EXM-BPSC-TRE-MID-SST",
+      "title": "BPSC TRE Middle School (Class 6–8) Social Science (SST) NCERT Solved Bank",
+      "slug": "bpsc-tre-middle-school-class-6-8-social-science-sst-bank",
+      "canonical_url": "https://store.frankbase.com/products/bpsc-tre-middle-school-class-6-8-social-science-sst-bank/",
+      "format": "Print-Ready 300 DPI Vector PDF",
+      "release_checksum_sha256": "8ce9a1e3d500ccbb774e0e5c93f2967c3f75a28753ea0ccbbc947542e316453b",
+      "integrity_status": "VERIFIED_OFFICIAL_RELEASE"
+    },
+    {
+      "sku": "EXM-BPSC-TRE-SST",
+      "title": "BPSC TRE Secondary (Class 9–10 TGT) Social Science (SST) NCERT Booster",
+      "slug": "bpsc-tre-social-science-class-9-10-sst-ncert-booster",
+      "canonical_url": "https://store.frankbase.com/products/bpsc-tre-social-science-class-9-10-sst-ncert-booster/",
+      "format": "Print-Ready 300 DPI Vector PDF",
+      "release_checksum_sha256": "8cef5f1f1ad20817d7d6b5d577e8890139b8faaf6bf075dcd5170d2b7a4b3207",
+      "integrity_status": "VERIFIED_OFFICIAL_RELEASE"
+    },
+    {
+      "sku": "EXM-BPSC-TRE-PGT",
+      "title": "BPSC TRE Higher Secondary (Class 11–12 PGT) Fast-Track Revision & Cutoff Bank",
+      "slug": "bpsc-tre-higher-secondary-class-11-12-pgt-fast-track-notes",
+      "canonical_url": "https://store.frankbase.com/products/bpsc-tre-higher-secondary-class-11-12-pgt-fast-track-notes/",
+      "format": "Print-Ready 300 DPI Vector PDF",
+      "release_checksum_sha256": "37e3d6b01c470c3b13b15af27e18079c91eab3f4b129df3f1da152d38d0024d9",
+      "integrity_status": "VERIFIED_OFFICIAL_RELEASE"
+    }
+  ]
+}
