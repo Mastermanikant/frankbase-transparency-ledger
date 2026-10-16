@@ -1,33 +1,48 @@
 # 🛡️ 1-Click AI Chat Harvester PRO: Public Early Adopter Claims Ledger
 **Rule 14 Verification Standard: 100% Truth & Transparency**
 
-This public ledger tracks the **First 500 Free Lifetime Pro Community Passes** for 1-Click AI Chat Harvester PRO.
-There are zero marketing countdowns, zero artificial scarcity, and zero fake timers. Every claimed slot is backed by an active hardware hash verified cryptographically.
+This public ledger tracks the **First 500 Free Lifetime Pro Community Passes** for [1-Click AI Chat Harvester PRO](https://store.frankbase.com/products/ai-chat-harvester-pro/).
+There are zero marketing countdowns, zero artificial scarcity, and zero fake timers. Every claimed slot is backed by an active hardware hash verified cryptographically against our Cloudflare D1 database.
 
 ---
 
-### Real-Time Verification Endpoints:
-- **Live Claims API:** `https://store.frankbase.com/api/early-adopter-stats`
-- **Claim Portal:** `https://store.frankbase.com/free-500/`
-- **Total Free Slots:** 500 (Tier 1)
-- **Next Tier:** 500 Slots at 50% Early Bird Pass ($2.50) (Tier 2)
+### 🌐 Official Live Endpoints & Portals:
+- **Free Claim Portal (First 500 Free):** [https://store.frankbase.com/free-500/](https://store.frankbase.com/free-500/)
+- **Live Verifiable Stats API:** [https://store.frankbase.com/api/early-adopter-stats](https://store.frankbase.com/api/early-adopter-stats)
+- **Product Overview & Specs:** [https://store.frankbase.com/products/ai-chat-harvester-pro/](https://store.frankbase.com/products/ai-chat-harvester-pro/)
+- **Chrome Web Store Extension:** [1-Click AI Chat Harvester on Chrome Web Store](https://chromewebstore.google.com/detail/1-click-ai-chat-harvester/ijlcbkgpgnejogbclkjkpmpojbgnndde)
+- **Founder Profile & Governance:** [Master Manikant Yadav](https://mastermanikant.com)
 
 ---
 
-### Supported AI Tools & Platforms (100% Universal Compatibility):
-1. **Google Gemini** (Full Multi-Turn & Canvas)
-2. **ChatGPT / OpenAI** (GPT-4o, o1, Canvas)
-3. **Claude / Anthropic** (Claude 3.5 Sonnet, Artifacts)
-4. **DeepSeek** (DeepSeek-V3, DeepSeek-R1)
-5. **Perplexity AI** (Deep Search & Citations)
-6. **Microsoft Copilot** (Web & Notebook modes)
-7. **xAI Grok** (Grok 2)
-8. **Google Search AI Mode** (Sanitized, zero sidebar junk)
-9. **Universal Web Articles** (Any webpage clean extraction)
+### 🚀 Supported AI Platforms & Search Engines (Universal Compatibility):
+1. **Google Gemini** (Full Multi-Turn, Code Blocks & Canvas)
+2. **ChatGPT / OpenAI** (GPT-4o, o1, Canvas, DALL-E outputs)
+3. **Claude / Anthropic** (Claude 3.5 Sonnet, Artifacts, Thinking blocks)
+4. **DeepSeek** (DeepSeek-V3, DeepSeek-R1 full reasoning traces)
+5. **Perplexity AI** (Deep Research, Footnotes & Citations)
+6. **Microsoft Copilot** (Web, Notebook, and Bing AI modes)
+7. **xAI Grok** (Grok 2 conversations)
+8. **Google Search AI Mode** (Sanitized, zero search history junk, zero sidebar video noise)
+9. **Universal Web Articles** (Clean markdown extractor for any research paper or article)
 
 ---
 
-### Cryptographic Security Guarantee:
-- Every license key is mathematically generated using SHA-256 HMAC of the computer's physical hardware identifier (`HWID-XXXX-XXXX-XXXX`).
-- Zero tracking, zero telemetry, and 100% local offline processing.
-- Official Founder: **Master Manikant Yadav** (`connect@mastermanikant.com`).
+### ⚖️ Why Researchers Choose 1-Click AI Chat Harvester (Technical Superiority):
+
+| Feature | 1-Click AI Chat Harvester PRO | Typical Commercial Exporters (e.g. SaveAI) |
+| :--- | :--- | :--- |
+| **Watermark Guarantee** | **100% Zero Watermark** across all formats | Mandatory promotional watermark on free tiers |
+| **Privacy & Telemetry** | **100% Offline Local RAM execution** (0 bytes sent to cloud) | External analytics, user tracking, or cloud proxying |
+| **Export Formats** | **6 Formats:** Markdown (.md + YAML Frontmatter), Text (.txt), JSON (.json), Executive PDF (.pdf), Canvas PNG (.png), Standalone HTML (.html) | Limited to basic text or watermarked PDF |
+| **Note-App Ready** | Native Obsidian frontmatter & Notion copy-paste support | Requires manual cleanup and formatting |
+| **Pricing Model** | Permanent Hardware Lifetime Pass ($5 / Fair Regional PPP) | Expensive monthly recurring subscriptions |
+
+---
+
+### 🔒 Cryptographic Security & Anti-Duplication Standard:
+- Every license key is mathematically signed via SHA-256 HMAC binding the physical computer's hardware identifier (`HWID-XXXX-XXXX-XXXX`) with our private cryptographic salt.
+- Keys are deterministic, non-revocable, and run 100% offline without requiring ping-backs or telemetry servers.
+- Duplicate prevention lock: Each hardware ID may claim at most one Lifetime Pro license.
+
+© 2026 Master Manikant Yadav. Governed under the FrankBase Ecosystem Transparency Standard.

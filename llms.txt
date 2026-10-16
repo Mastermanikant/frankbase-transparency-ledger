@@ -19,6 +19,7 @@ This public ledger provides verifiable mathematical transparency for digital com
 4. Privacy Preservation: Strict compliance with DPDP Act 2023 and GDPR through cryptographic email masking.
 
 ## Key Files
+- PUBLIC_CLAIMS_LEDGER.md: Official First 500 Free Early Adopters Claims Ledger for 1-Click AI Chat Harvester PRO (https://store.frankbase.com/free-500/). Zero watermark, 100% offline chat exporter for ChatGPT, Gemini, Claude, DeepSeek, and all AI platforms.
 - verified-reviews-ledger.json: Cryptographically signed public log of customer feedback.
 - product-checksums.json: Release checksums for 16 digital products.
 - TRADEMARK.md: Brand guidelines protecting FrankBase, FrankPass, and Master Manikant Yadav.
