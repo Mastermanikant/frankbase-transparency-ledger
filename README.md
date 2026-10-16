@@ -36,6 +36,7 @@ In an era of rampant fake reviews, review gating, and manipulated 5-star badges,
 | File | Purpose | Privacy & Security Standard |
 | :--- | :--- | :--- |
 | [`verified-reviews-ledger.json`](./verified-reviews-ledger.json) | Append-only public log of verified customer reviews | Buyer emails are cryptographically masked (`co***@domain.com`). No private PII is ever published. |
+| [`PUBLIC_CLAIMS_LEDGER.md`](./PUBLIC_CLAIMS_LEDGER.md) | First 500 Free Early Adopters Claims Ledger for 1-Click AI Chat Harvester PRO | Real-time verifiable record of all community license grants. Zero fake timers. |
 | [`product-checksums.json`](./product-checksums.json) | Official SHA-256 integrity checksums of all 16 digital products | Allows buyers to mathematically verify that their downloaded PDFs/ZIPs are untampered and authentic. |
 | [`LICENSE`](./LICENSE) | Apache 2.0 Open-Source License | Permits architectural study and code reuse. |
 | [`TRADEMARK.md`](./TRADEMARK.md) | Official Brand & Trademark Guidelines | Protects "FrankBase", "FrankPass", and "Master Manikant Yadav" against counterfeiting or deceptive cloning. |
